@@ -1,0 +1,35 @@
+{
+  "currency": "US",
+  "totalAmount": 800.0999755859375,
+  "orderId": "O-2989",
+  "emailAddress": "mail@gmail.com",
+  "lineItems": [
+    {
+      "sku": "sk99001",
+      "name": "salt",
+      "category": "foodItem-daily",
+      "unitPrice": 1.899999976158142,
+      "salePrice": 1.9900000095367432,
+      "quantity": 10,
+      "totalPrice": 10.989999771118164
+    },
+    {
+      "sku": "SKU01",
+      "name": "Chips",
+      "category": "foodItem-daily",
+      "unitPrice": 20,
+      "salePrice": 15,
+      "quantity": 25,
+      "totalPrice": 710.989999771118164
+    },
+    {
+      "sku": "SKU99",
+      "name": "soap",
+      "category": "grocessry",
+      "unitPrice": 19.8,
+      "salePrice": 18.9900000095367432,
+      "quantity": 10,
+      "totalPrice": 100.989999771118164
+    }
+  ]
+}
